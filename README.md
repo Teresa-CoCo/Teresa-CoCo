@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">こんにちは！😄</h1>
+<hr>
+<h2>Welcome to my homepage</h3>
+<h3>I am an University student in China</h3>
 
-<!--
-**Teresa-CoCo/Teresa-CoCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent I am studying C , Go , HTML+CSS+JavaScript<br/>
 
-Here are some ideas to get you started:
+Interested in Japanese Culture,Anime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>What I am Using</h3>
+iPhone 14 Pro Max(256G)<br/>
+iPad Pro 11 inch(256G)<br/>
+Coding on GitHub's <em>CodeSpace</em>
+Server in Home(Intel Cerelon dual core,2GB,HDD160G+HDD500G)[Running Docker and WebServer]
+<!--[![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teresa-CoCo)](https://github.com/anuraghazra/github-readme-stats)
