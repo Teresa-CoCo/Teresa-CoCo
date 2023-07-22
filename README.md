@@ -12,7 +12,7 @@ Interested in Japanese Culture,Anime
 <h3>What I am Using</h3>
 iPhone 14 Pro Max(256G)<br/>
 iPad Pro 11 inch(256G)<br/>
-Coding on GitHub's <em>CodeSpace</em>
+Coding on GitHub's <em>CodeSpace and ThinkBook 16p Gen 4</em>
 Server in Home(Intel Cerelon dual core,2GB,HDD160G+HDD500G)[Running Docker and WebServer]
 
 
