@@ -16,4 +16,6 @@ Coding on GitHub's <em>CodeSpace and ThinkBook 16p Gen 4</em>
 Server in Home(Intel Cerelon dual core,2GB,HDD160G+HDD500G)[Running Docker and WebServer]
 
 
-<!--[![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teresa-CoCo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trends](https://api.githubtrends.io/user/svg/Teresa-CoCo/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/Teresa-CoCo/langs?time_range=one_year&include_private=True&theme=classic)
+[![Repositories](https://api.githubtrends.io/user/svg/Teresa-CoCo/repos?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/Teresa-CoCo/repos?time_range=one_year&include_private=True&theme=classic)
