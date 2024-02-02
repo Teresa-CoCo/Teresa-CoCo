@@ -34,6 +34,6 @@
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Apple' src='https://img.shields.io/badge/iPad_Pro_2022-100000?style=for-the-badge&logo=Apple&logoColor=white&labelColor=black&color=black'/></a>
 #### 除此之外我喜欢 Except that I also like
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/CS：GO-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=009EFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/CS2-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=009EFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Anime-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=009EFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Nier：Automata-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=009EFF'/></a>
