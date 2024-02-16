@@ -12,6 +12,7 @@
 
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='C' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=C&logoColor=white&labelColor=black&color=black'/></a>
 &  🗾 Japanese
@@ -20,7 +21,7 @@
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GO' src='https://img.shields.io/badge/GOLang-100000?style=for-the-badge&logo=GO&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='acm' src='https://img.shields.io/badge/ACM-100000?style=for-the-badge&logo=acm&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=black'/></a>
+
 #### 好马配好鞍，我喜欢使用 Prefer to use
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Archlinux' src='https://img.shields.io/badge/Arch-100000?style=for-the-badge&logo=Archlinux&logoColor=white&labelColor=black&color=black'/></a>
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
