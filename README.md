@@ -2,6 +2,8 @@
 ![Teresa's GitHub stats](https://badgesystem.vercel.app/api?username=Teresa-CoCo&count_private=true)
 
 [![Top Langs](https://badgesystem.vercel.app/api/top-langs/?username=Teresa-CoCo&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### 我所擅长的 Good at
 
