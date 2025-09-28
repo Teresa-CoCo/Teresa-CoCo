@@ -3,8 +3,6 @@
 
 [![Top Langs](https://badgesystem.vercel.app/api/top-langs/?username=Teresa-CoCo&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2051%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -19,45 +17,6 @@
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-🌆 Daytime                339 commits         █████████░░░░░░░░░░░░░░░░   36.93 % 
-🌃 Evening                432 commits         ████████████░░░░░░░░░░░░░   47.06 % 
-🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Tuesday                  83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Thursday                 152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Friday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Saturday                 78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Sunday                   184 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -71,7 +30,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 19:39:16 UTC
+ Last Updated on 28/09/2025 19:39:36 UTC
 <!--END_SECTION:waka-->
 
 #### 我所擅长的 Good at
