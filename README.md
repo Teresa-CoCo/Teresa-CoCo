@@ -3,7 +3,7 @@
 
 [![Top Langs](https://badgesystem.vercel.app/api/top-langs/?username=Teresa-CoCo&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -46,16 +46,19 @@ Sunday                   184 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 9 mins         ██████████████████████░░░   86.57 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FinDoc                   46 mins             ███████████████░░░░░░░░░░   58.05 % 
+Vision_web               33 mins             ██████████░░░░░░░░░░░░░░░   41.95 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +74,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2025 19:39:17 UTC
+ Last Updated on 06/10/2025 19:40:03 UTC
 <!--END_SECTION:waka-->
 
 #### 我所擅长的 Good at
