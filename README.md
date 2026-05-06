@@ -43,17 +43,16 @@ Sunday                   235 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   39 mins             ████████████████████████░   97.31 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-demo                     40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +68,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 20:43:36 UTC
+ Last Updated on 06/05/2026 20:54:59 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
