@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 441.1 kB Used in GitHub's Storage 
+> 📦 479.9 kB Used in GitHub's Storage 
  > 
 > 🏆 365 Contributions in the Year 2026
  > 
@@ -16,64 +16,20 @@
  > 
 > 🔑 44 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌆 Daytime                619 commits         █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌃 Evening                725 commits         ███████████░░░░░░░░░░░░░░   43.99 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   254 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Tuesday                  324 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Wednesday                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Friday                   255 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Saturday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Sunday                   236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    5 mins              ███████████████████░░░░░░   74.11 % 
-Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-
-🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-00                       7 mins              ███████████████████████░░   93.51 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Spider                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-
-💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ██████████░░░░░░░░░░░░░░░   38.30 % 
-TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   19 repos            ██████████░░░░░░░░░░░░░░░   39.58 % 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
 
 
- Last Updated on 19/05/2026 21:03:29 UTC
+ Last Updated on 20/05/2026 21:20:02 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
