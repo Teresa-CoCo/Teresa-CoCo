@@ -1,14 +1,12 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2039%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 480.0 kB Used in GitHub's Storage 
+> 📦 480.1 kB Used in GitHub's Storage 
  > 
-> 🏆 374 Contributions in the Year 2026
+> 🏆 378 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -16,45 +14,6 @@
  > 
 > 🔑 44 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-🌆 Daytime                625 commits         █████████░░░░░░░░░░░░░░░░   37.34 % 
-🌃 Evening                740 commits         ███████████░░░░░░░░░░░░░░   44.21 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Tuesday                  324 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Wednesday                239 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Thursday                 166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Friday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Saturday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Sunday                   236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -68,7 +27,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 21:22:03 UTC
+ Last Updated on 28/05/2026 21:33:25 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
