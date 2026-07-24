@@ -14,53 +14,6 @@
  > 
 > 🔑 44 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-🌆 Daytime                747 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
-🌃 Evening                812 commits         ██████████░░░░░░░░░░░░░░░   41.60 % 
-🌙 Night                  71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   316 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Tuesday                  359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Wednesday                296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Thursday                 170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Friday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Saturday                 246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Sunday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   38.31 % 
-Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-TypeScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Bash                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Rust                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-
-🔥 Editors: 
-Codex CLI                2 hrs 52 mins       █████████████████████░░░░   85.21 % 
-VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-
-🐱‍💻 Projects: 
-musicaiMarkPlatform      1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   41.46 % 
-Fast-FoundationStereo    1 hr                ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-sprinkler-truck-control  39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-
-💻 Operating System: 
-WSL                      3 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -74,7 +27,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 20:38:44 UTC
+ Last Updated on 24/07/2026 20:48:43 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
