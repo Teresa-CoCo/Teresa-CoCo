@@ -1,5 +1,7 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%208%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.47%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -14,6 +16,53 @@
  > 
 > 🔑 44 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+🌆 Daytime                747 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌃 Evening                812 commits         ██████████░░░░░░░░░░░░░░░   41.60 % 
+🌙 Night                  71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   316 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Tuesday                  359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Wednesday                296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Thursday                 170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Friday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Saturday                 246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Sunday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Rust                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+
+🔥 Editors: 
+Codex CLI                3 hrs 19 mins       ██████████████████████░░░   86.99 % 
+VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+
+🐱‍💻 Projects: 
+musicaiMarkPlatform      1 hr 45 mins        ███████████░░░░░░░░░░░░░░   45.92 % 
+Fast-FoundationStereo    1 hr                ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+sprinkler-truck-control  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Unknown Project          24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+
+💻 Operating System: 
+WSL                      3 hrs 49 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -27,7 +76,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:48:43 UTC
+ Last Updated on 25/07/2026 20:29:01 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
