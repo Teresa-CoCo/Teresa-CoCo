@@ -1,6 +1,8 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,24 +45,48 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
-TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Rust                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Python                   1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Rust                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+TypeScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 19 mins       ██████████████████████░░░   86.99 % 
-VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Codex CLI                6 hrs 13 mins       ██████████████████████░░░   89.31 % 
+VS Code                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 
 🐱‍💻 Projects: 
-musicaiMarkPlatform      1 hr 45 mins        ███████████░░░░░░░░░░░░░░   45.92 % 
-Fast-FoundationStereo    1 hr                ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-sprinkler-truck-control  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Unknown Project          24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+musicaiMarkPlatform      3 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.62 % 
+Fast-FoundationStereo    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+sprinkler-truck-control  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Unknown Project          39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+MusicAI                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 Operating System: 
-WSL                      3 hrs 49 mins       █████████████████████████   100.00 % 
+WSL                      6 hrs 58 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 36 mins (94.87%)
+
+✍️ 15,559 lines written by AI, 184 lines written by hand (98.83% AI-written)
+
+🔤 175,113,242 Input Tokens, 667,158 Output Tokens
+
+💵 $895.01 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 48 AI Prompts
+
+GPT                      15,657 lines        █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.83% of written lines came from AI
+📝 Concise Prompter — average 182 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +102,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 20:31:52 UTC
+ Last Updated on 27/07/2026 20:53:15 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
