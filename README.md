@@ -1,8 +1,8 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,49 +45,49 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Python                   3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-JavaScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Markdown                 5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Python                   3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+JavaScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+TypeScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-Codex CLI                11 hrs 47 mins      █████████████████░░░░░░░░   67.35 % 
-VS Code                  5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Codex CLI                11 hrs 47 mins      ████████████████░░░░░░░░░   65.25 % 
+VS Code                  6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-Work                     9 hrs 50 mins       ██████████████░░░░░░░░░░░   56.25 % 
-ViralLens                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-musicaiMarkPlatform      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Fast-FoundationStereo    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-lightstereo_cpp          41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Work                     10 hrs 6 mins       ██████████████░░░░░░░░░░░   55.91 % 
+ViralLens                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+musicaiMarkPlatform      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Fast-FoundationStereo    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+lightstereo_cpp          41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-WSL                      17 hrs 30 mins      █████████████████████████   100.00 % 
+WSL                      18 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 34 mins (88.94%)
+⏱ AI Coding Time: 16 hrs 8 mins (89.28%)
 
-✍️ 69,460 lines written by AI, 195 lines written by hand (99.72% AI-written)
+✍️ 70,573 lines written by AI, 195 lines written by hand (99.72% AI-written)
 
-🔤 525,282,344 Input Tokens, 2,301,045 Output Tokens
+🔤 554,358,462 Input Tokens, 2,422,740 Output Tokens
 
-💵 $1899.18 Estimated AI Cost This Week
+💵 $2048.22 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 88 AI Prompts
+🧠 35 AI Sessions, 92 AI Prompts
 
-GPT                      69,608 lines        █████████████████████████   99.93 % 
+GPT                      70,723 lines        █████████████████████████   99.93 % 
 Codex-Cli                50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.72% of written lines came from AI
-📄 Detailed Prompter — average 609 characters per prompt
+📄 Detailed Prompter — average 592 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
@@ -105,7 +105,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 20:28:53 UTC
+ Last Updated on 02/08/2026 20:30:15 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
