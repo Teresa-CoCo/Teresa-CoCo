@@ -1,12 +1,16 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.69%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-192%20hrs%2039%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 518.7 kB Used in GitHub's Storage 
+> 📦 518.1 kB Used in GitHub's Storage 
  > 
-> 🏆 471 Contributions in the Year 2026
+> 🏆 483 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -14,6 +18,81 @@
  > 
 > 🔑 46 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                355 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+🌆 Daytime                839 commits         ██████████░░░░░░░░░░░░░░░   40.39 % 
+🌃 Evening                812 commits         ██████████░░░░░░░░░░░░░░░   39.09 % 
+🌙 Night                  71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   340 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Tuesday                  380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Wednesday                323 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Thursday                 212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Friday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Saturday                 246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Sunday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   12 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.48 % 
+Markdown                 4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+JavaScript               2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Other                    2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+HTML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 14 mins      ██████████████░░░░░░░░░░░   55.66 % 
+Codex CLI                12 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   39.14 % 
+Claude Code              1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+
+🐱‍💻 Projects: 
+ViralLens                13 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.08 % 
+Work                     11 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.79 % 
+musicaiMarkPlatform      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Unknown Project          1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+lightstereo_cpp          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+
+💻 Operating System: 
+WSL                      27 hrs 21 mins      ██████████████████████░░░   88.32 % 
+Mac                      3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 29 hrs 42 mins (95.9%)
+
+✍️ 41,493 lines written by AI, 100 lines written by hand (99.76% AI-written)
+
+🔤 922,644,238 Input Tokens, 3,760,722 Output Tokens
+
+💵 $4183.79 Estimated AI Cost This Week
+
+🧠 68 AI Sessions, 261 AI Prompts
+
+GPT                      38,801 lines        ███████████████████████░░   90.49 % 
+Deepseek                 4,048 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Codex-Cli                29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.76% of written lines came from AI
+📝 Concise Prompter — average 477 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -27,7 +106,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:50:47 UTC
+ Last Updated on 07/08/2026 20:08:48 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
