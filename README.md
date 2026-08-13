@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 520.2 kB Used in GitHub's Storage 
+> 📦 521.1 kB Used in GitHub's Storage 
  > 
 > 🏆 491 Contributions in the Year 2026
  > 
@@ -45,51 +45,51 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.43 % 
-JavaScript               2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Other                    2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Markdown                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Python                   4 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.40 % 
+Other                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+JavaScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 12 mins       ██████████████░░░░░░░░░░░   56.46 % 
-Codex CLI                6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.41 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  5 hrs 40 mins       ███████████████░░░░░░░░░░   61.37 % 
+Codex CLI                3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-ViralLens                8 hrs 9 mins        ██████████████░░░░░░░░░░░   56.14 % 
-Work                     5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.04 % 
-抖店千川日数据采集-1.0.4          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-viraltest-api.SnyP5A     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+ViralLens                5 hrs 32 mins       ███████████████░░░░░░░░░░   59.79 % 
+Work                     2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
+抖店千川日数据采集-1.0.4          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+develop                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-WSL                      13 hrs 29 mins      ███████████████████████░░   92.83 % 
-Mac                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+WSL                      8 hrs 21 mins       ███████████████████████░░   90.25 % 
+Mac                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 57 mins (96.02%)
+⏱ AI Coding Time: 9 hrs 1 min (97.44%)
 
-✍️ 15,552 lines written by AI, 14 lines written by hand (99.91% AI-written)
+✍️ 9,969 lines written by AI, 4 lines written by hand (99.96% AI-written)
 
-🔤 273,573,702 Input Tokens, 1,021,882 Output Tokens
+🔤 161,816,761 Input Tokens, 658,303 Output Tokens
 
-💵 $1261.35 Estimated AI Cost This Week
+💵 $812.82 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 132 AI Prompts
+🧠 14 AI Sessions, 90 AI Prompts
 
-GPT                      11,010 lines        █████████████████░░░░░░░░   67.99 % 
-Deepseek                 5,183 lines         ████████░░░░░░░░░░░░░░░░░   32.01 % 
+GPT                      5,357 lines         █████████████░░░░░░░░░░░░   51.15 % 
+Deepseek                 5,117 lines         ████████████░░░░░░░░░░░░░   48.85 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📝 Concise Prompter — average 277 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 20:11:13 UTC
+ Last Updated on 13/08/2026 20:06:53 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
