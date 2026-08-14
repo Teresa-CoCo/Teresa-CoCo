@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 521.1 kB Used in GitHub's Storage 
+> 📦 521.3 kB Used in GitHub's Storage 
  > 
 > 🏆 491 Contributions in the Year 2026
  > 
@@ -45,51 +45,46 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.40 % 
-Other                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-JavaScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Python                   1 hr 17 mins        ████████████░░░░░░░░░░░░░   47.44 % 
+Markdown                 35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Other                    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 40 mins       ███████████████░░░░░░░░░░   61.37 % 
-Codex CLI                3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   99.30 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-ViralLens                5 hrs 32 mins       ███████████████░░░░░░░░░░   59.79 % 
-Work                     2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
-抖店千川日数据采集-1.0.4          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-develop                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+ViralLens                1 hr 47 mins        █████████████████░░░░░░░░   66.51 % 
+Work                     54 mins             ████████░░░░░░░░░░░░░░░░░   33.49 % 
 
 💻 Operating System: 
-WSL                      8 hrs 21 mins       ███████████████████████░░   90.25 % 
-Mac                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+WSL                      2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 1 min (97.44%)
+⏱ AI Coding Time: 2 hrs 39 mins (98.09%)
 
-✍️ 9,969 lines written by AI, 4 lines written by hand (99.96% AI-written)
+✍️ 1,663 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 161,816,761 Input Tokens, 658,303 Output Tokens
+🔤 1,128,252 Input Tokens, 67,353 Output Tokens
 
-💵 $812.82 Estimated AI Cost This Week
+💵 $8.47 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 90 AI Prompts
+🧠 4 AI Sessions, 29 AI Prompts
 
-GPT                      5,357 lines         █████████████░░░░░░░░░░░░   51.15 % 
-Deepseek                 5,117 lines         ████████████░░░░░░░░░░░░░   48.85 % 
+Deepseek                 1,696 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 277 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 680 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +100,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 20:06:53 UTC
+ Last Updated on 14/08/2026 20:05:41 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
