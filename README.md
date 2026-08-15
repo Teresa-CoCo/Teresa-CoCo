@@ -45,46 +45,38 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ████████████░░░░░░░░░░░░░   47.44 % 
-Markdown                 35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Other                    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   99.30 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ViralLens                1 hr 47 mins        █████████████████░░░░░░░░   66.51 % 
-Work                     54 mins             ████████░░░░░░░░░░░░░░░░░   33.49 % 
+Work                     1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 42 mins       █████████████████████████   100.00 % 
+WSL                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (98.09%)
+⏱ AI Coding Time: 1 min (100.0%)
 
-✍️ 1,663 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,128,252 Input Tokens, 67,353 Output Tokens
+🔤 21,618 Input Tokens, 1,788 Output Tokens
 
-💵 $8.47 Estimated AI Cost This Week
+💵 $0.04 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 29 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Deepseek                 1,696 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 680 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +92,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 20:05:41 UTC
+ Last Updated on 15/08/2026 19:48:00 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
