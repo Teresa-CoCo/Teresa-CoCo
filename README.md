@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 521.9 kB Used in GitHub's Storage 
+> 📦 522.2 kB Used in GitHub's Storage 
  > 
 > 🏆 491 Contributions in the Year 2026
  > 
@@ -45,22 +45,53 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Markdown                 3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Rust                     3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+JavaScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                9 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.26 % 
+Codex Vscode             7 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.28 % 
+VS Code                  3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Opencode Cli             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ViralLens                5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+develop                  3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+ChanAuto                 2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+NasClassification        2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+抖店千川日数据采集-1.0.4          1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      20 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 hrs 38 mins (99.79%)
+
+✍️ 27,202 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 23,783,239 Input Tokens, 2,284,086 Output Tokens
+
+💵 $497.65 Estimated AI Cost This Week
+
+🧠 47 AI Sessions, 137 AI Prompts
+
+GPT                      25,499 lines        ███████████████████████░░   90.92 % 
+Codex-Cli                2,045 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Codex-Vscode             333 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Deepseek                 132 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Glm                      37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,242 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +107,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:54:28 UTC
+ Last Updated on 18/08/2026 19:51:59 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
