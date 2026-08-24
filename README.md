@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 523.1 kB Used in GitHub's Storage 
+> 📦 523.6 kB Used in GitHub's Storage 
  > 
 > 🏆 491 Contributions in the Year 2026
  > 
@@ -45,53 +45,53 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-TypeScript               4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Python                   4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Rust                     3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Markdown                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Go                       6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+TypeScript               5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Python                   5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+JavaScript               2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Rust                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-Codex CLI                16 hrs 13 mins      ██████████████░░░░░░░░░░░   56.85 % 
-Codex Vscode             9 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
-VS Code                  2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Opencode Cli             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Codex CLI                18 hrs 34 mins      ███████████████░░░░░░░░░░   59.00 % 
+Codex Vscode             9 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
+VS Code                  3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-ViralLenGo               6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-ViralLens                5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-develop                  5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-NasClassification        3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-数据中台-录入skill             1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+ViralLens                7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+develop                  6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+ViralLenGo               6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+NasClassification        2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+数据中台-录入skill             2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 💻 Operating System: 
-Mac                      28 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 42 mins (97.05%)
+⏱ AI Coding Time: 30 hrs 38 mins (97.3%)
 
-✍️ 50,438 lines written by AI, 3 lines written by hand (99.99% AI-written)
+✍️ 57,451 lines written by AI, 11 lines written by hand (99.98% AI-written)
 
-🔤 36,645,047 Input Tokens, 3,325,316 Output Tokens
+🔤 42,810,707 Input Tokens, 3,598,144 Output Tokens
 
-💵 $579.62 Estimated AI Cost This Week
+💵 $607.92 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 180 AI Prompts
+🧠 52 AI Sessions, 312 AI Prompts
 
-GPT                      49,841 lines        ████████████████████████░   96.22 % 
-Codex-Cli                1,890 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Glm                      37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Codex-Vscode             31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GPT                      58,476 lines        █████████████████████████   99.95 % 
+Codex-Vscode             31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 1,793 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 7,683 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 19:47:55 UTC
+ Last Updated on 24/08/2026 19:58:09 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
