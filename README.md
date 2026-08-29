@@ -1,14 +1,14 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 535.1 kB Used in GitHub's Storage 
+> 📦 535.8 kB Used in GitHub's Storage 
  > 
 > 🏆 491 Contributions in the Year 2026
  > 
@@ -45,50 +45,51 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-Markdown                 4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Other                    3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-TypeScript               3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-JavaScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Python                   8 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Markdown                 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+JavaScript               3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Other                    3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+TypeScript               2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-Codex CLI                13 hrs              ██████████░░░░░░░░░░░░░░░   41.63 % 
-Codex Vscode             11 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   37.42 % 
-VS Code                  6 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Codex Vscode             13 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
+Codex CLI                12 hrs 1 min        █████████░░░░░░░░░░░░░░░░   37.96 % 
+VS Code                  6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
 
 🐱‍💻 Projects: 
-ViralLens                13 hrs 55 mins      ███████████░░░░░░░░░░░░░░   44.58 % 
-develop                  8 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-NasClassification        2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-数据中台-录入skill             1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-ChanAuto                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+ViralLens                14 hrs 31 mins      ███████████░░░░░░░░░░░░░░   45.87 % 
+develop                  8 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+数据中台-录入skill             1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+NasClassification        1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+ChanAuto                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Mac                      31 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 19 mins (97.06%)
+⏱ AI Coding Time: 30 hrs 54 mins (97.58%)
 
-✍️ 44,717 lines written by AI, 13 lines written by hand (99.97% AI-written)
+✍️ 46,128 lines written by AI, 14 lines written by hand (99.97% AI-written)
 
-🔤 39,077,273 Input Tokens, 3,223,034 Output Tokens
+🔤 38,142,850 Input Tokens, 3,222,157 Output Tokens
 
-💵 $422.91 Estimated AI Cost This Week
+💵 $424.04 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 443 AI Prompts
+🧠 48 AI Sessions, 445 AI Prompts
 
-GPT                      43,785 lines        ████████████████████████░   96.59 % 
-Codex-Cli                1,101 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Opencode-Cli             442 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+GPT                      44,924 lines        ████████████████████████░   95.63 % 
+Codex-Cli                1,101 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Glm                      509 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Opencode-Cli             442 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 Spark                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 10,098 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 10,532 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
@@ -105,7 +106,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 03:41:39 UTC
+ Last Updated on 29/08/2026 02:25:34 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
