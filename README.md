@@ -45,51 +45,51 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Markdown                 3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Other                    3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-JavaScript               3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-JSON                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Python                   5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Other                    2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+JavaScript               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Rust                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Codex CLI                10 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   40.13 % 
-Codex Vscode             10 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   39.34 % 
-VS Code                  5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Codex Vscode             8 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.59 % 
+Codex CLI                6 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.82 % 
+VS Code                  3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
 
 🐱‍💻 Projects: 
-ViralLens                13 hrs 36 mins      █████████████░░░░░░░░░░░░   50.07 % 
-develop                  7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-ChanAuto                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-数据中台-录入skill             55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-wo-x                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+ViralLens                10 hrs 24 mins      █████████████░░░░░░░░░░░░   53.69 % 
+develop                  5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+ChanAuto                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+wo-x                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+抖店千川日数据采集-1.0.4          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 💻 Operating System: 
-Mac                      27 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 55 mins (99.05%)
+⏱ AI Coding Time: 19 hrs 8 mins (98.74%)
 
-✍️ 37,552 lines written by AI, 14 lines written by hand (99.96% AI-written)
+✍️ 21,991 lines written by AI, 6 lines written by hand (99.97% AI-written)
 
-🔤 32,749,871 Input Tokens, 2,691,813 Output Tokens
+🔤 19,234,777 Input Tokens, 1,747,096 Output Tokens
 
-💵 $359.54 Estimated AI Cost This Week
+💵 $218.60 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 403 AI Prompts
+🧠 23 AI Sessions, 188 AI Prompts
 
-GPT                      36,122 lines        ████████████████████████░   94.62 % 
-Codex-Cli                1,101 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Glm                      509 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Opencode-Cli             442 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+GPT                      20,407 lines        ███████████████████████░░   90.86 % 
+Codex-Cli                1,101 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Glm                      509 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Opencode-Cli             442 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 Spark                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 11,090 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 8,718 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
@@ -106,7 +106,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 22:01:12 UTC
+ Last Updated on 31/08/2026 23:19:57 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
