@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 535.8 kB Used in GitHub's Storage 
+> 📦 536.5 kB Used in GitHub's Storage 
  > 
 > 🏆 491 Contributions in the Year 2026
  > 
@@ -45,51 +45,50 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Other                    2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-JavaScript               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Rust                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Python                   3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Other                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Rust                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.59 % 
-Codex CLI                6 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.82 % 
-VS Code                  3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Codex Vscode             10 hrs 10 mins      ████████████████░░░░░░░░░   65.55 % 
+Codex CLI                3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+VS Code                  1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 
 🐱‍💻 Projects: 
-ViralLens                10 hrs 24 mins      █████████████░░░░░░░░░░░░   53.69 % 
-develop                  5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-ChanAuto                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-wo-x                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-抖店千川日数据采集-1.0.4          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+ViralLens                7 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.90 % 
+develop                  4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+ChanAuto                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+wo-x                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+抖店千川日数据采集-1.0.4          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 💻 Operating System: 
-Mac                      19 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 8 mins (98.74%)
+⏱ AI Coding Time: 15 hrs 24 mins (99.28%)
 
-✍️ 21,991 lines written by AI, 6 lines written by hand (99.97% AI-written)
+✍️ 15,871 lines written by AI, 5 lines written by hand (99.97% AI-written)
 
-🔤 19,234,777 Input Tokens, 1,747,096 Output Tokens
+🔤 15,663,608 Input Tokens, 1,509,121 Output Tokens
 
-💵 $218.60 Estimated AI Cost This Week
+💵 $209.98 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 188 AI Prompts
+🧠 28 AI Sessions, 125 AI Prompts
 
-GPT                      20,407 lines        ███████████████████████░░   90.86 % 
-Codex-Cli                1,101 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Glm                      509 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Opencode-Cli             442 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Spark                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GPT                      14,591 lines        ██████████████████████░░░   89.41 % 
+Codex-Cli                1,219 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Glm                      509 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 8,718 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 8,859 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
@@ -106,7 +105,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 23:19:57 UTC
+ Last Updated on 01/09/2026 21:58:13 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
