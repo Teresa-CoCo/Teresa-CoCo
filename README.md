@@ -1,14 +1,14 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-260%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 538.1 kB Used in GitHub's Storage 
+> 📦 536.4 kB Used in GitHub's Storage 
  > 
 > 🏆 491 Contributions in the Year 2026
  > 
@@ -45,51 +45,52 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-Markdown                 2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Python                   2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-JavaScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-TypeScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Markdown                 2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+Python                   2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Other                    2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+JavaScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+TypeScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 36 mins       █████████████████░░░░░░░░   69.21 % 
-Codex CLI                1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-VS Code                  1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Codex Vscode             7 hrs 23 mins       █████████████████░░░░░░░░   66.38 % 
+VS Code                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Codex CLI                1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-ViralLens                5 hrs 57 mins       ████████████████░░░░░░░░░   62.46 % 
-develop                  2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-数据中台-录入skill             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-PLDF-Net                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-xian                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+ViralLens                7 hrs 9 mins        ████████████████░░░░░░░░░   64.33 % 
+develop                  2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+数据中台-录入skill             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+PLDF-Net                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+xian                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Mac                      9 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 30 mins (99.66%)
+⏱ AI Coding Time: 11 hrs 5 mins (99.61%)
 
-✍️ 7,443 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,439 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,720,280 Input Tokens, 810,317 Output Tokens
+🔤 8,983,118 Input Tokens, 972,987 Output Tokens
 
-💵 $145.91 Estimated AI Cost This Week
+💵 $226.68 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 43 AI Prompts
+🧠 34 AI Sessions, 64 AI Prompts
 
-GPT                      6,123 lines         ████████████████████░░░░░   81.28 % 
-Deepseek                 748 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Codex-Cli                597 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Codex-Vscode             65 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      7,457 lines         ███████████████████░░░░░░   77.90 % 
+Deepseek                 748 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Spark                    625 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Codex-Cli                597 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Codex-Vscode             146 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 103 characters per prompt
+📚 Verbose Prompter — average 6,502 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -97,8 +98,8 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ██████████░░░░░░░░░░░░░░░   40.38 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Python                   22 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
@@ -107,7 +108,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 21:43:25 UTC
+ Last Updated on 05/09/2026 21:35:48 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
