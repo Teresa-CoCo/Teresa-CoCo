@@ -1,8 +1,8 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-260%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.70%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,34 +45,34 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Python                   2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Other                    2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-JavaScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-TypeScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Python                   3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Markdown                 2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Other                    2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+JavaScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+TypeScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 23 mins       █████████████████░░░░░░░░   66.38 % 
-VS Code                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Codex CLI                1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Codex Vscode             7 hrs 23 mins       ████████████████░░░░░░░░░   63.72 % 
+VS Code                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Codex CLI                1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Zed                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-ViralLens                7 hrs 9 mins        ████████████████░░░░░░░░░   64.33 % 
-develop                  2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-数据中台-录入skill             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-PLDF-Net                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-xian                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+ViralLens                7 hrs 9 mins        ███████████████░░░░░░░░░░   61.75 % 
+develop                  2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+数据中台-录入skill             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+PLDF-Net                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 💻 Operating System: 
-Mac                      11 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 5 mins (99.61%)
+⏱ AI Coding Time: 11 hrs 5 mins (95.62%)
 
 ✍️ 9,439 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -108,7 +108,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 21:35:48 UTC
+ Last Updated on 06/09/2026 21:37:15 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
