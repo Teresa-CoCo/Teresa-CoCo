@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,51 +45,49 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
-Go                       4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Markdown                 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Python                   2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+JavaScript               4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Python                   2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Go                       2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 11 mins      ██████████████████████░░░   89.80 % 
-Claude Code              2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+VS Code                  13 hrs 53 mins      █████████████████████████   99.51 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-develop                  10 hrs              ████████████░░░░░░░░░░░░░   46.79 % 
-ViralLensNext            6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
-teresa                   2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-ViralLens                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-wo-x                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+develop                  7 hrs 25 mins       █████████████░░░░░░░░░░░░   53.22 % 
+ViralLensNext            3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+teresa                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+ViralLens                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+LinuxDevOps              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Mac                      21 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 22 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 57 mins (100.0%)
 
-✍️ 13,740 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,860 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 68,689,276 Input Tokens, 3,992,747 Output Tokens
+🔤 64,184,240 Input Tokens, 2,577,319 Output Tokens
 
-💵 $3980.20 Estimated AI Cost This Week
+💵 $2903.11 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 236 AI Prompts
+🧠 30 AI Sessions, 123 AI Prompts
 
-Deepseek                 7,602 lines         ███████████████████░░░░░░   77.34 % 
-Opencode-Cli             2,187 lines         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Spark                    40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Deepseek                 6,732 lines         ███████████████████░░░░░░   75.24 % 
+Opencode-Cli             2,175 lines         ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Spark                    40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 516 characters per prompt
+📄 Detailed Prompter — average 876 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -107,7 +105,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:46:55 UTC
+ Last Updated on 21/09/2026 22:47:25 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
