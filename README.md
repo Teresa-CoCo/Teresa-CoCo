@@ -1,22 +1,22 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 539.1 kB Used in GitHub's Storage 
+> 📦 518.0 kB Used in GitHub's Storage 
  > 
-> 🏆 777 Contributions in the Year 2026
+> 🏆 776 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 48 Private Repositories 
+> 🔑 46 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -45,51 +45,52 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Python                   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Other                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Go                       49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Go                       2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+TypeScript               1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Markdown                 1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Python                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 17 mins       ████████████████████████░   97.96 % 
-Zed                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+VS Code                  4 hrs 30 mins       █████████████░░░░░░░░░░░░   52.35 % 
+Opencode Cli             3 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.13 % 
+Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🐱‍💻 Projects: 
-develop                  2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.45 % 
-teresa                   1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-ViralLensNext            1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-LinuxDevOps              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+ViralLensNext            5 hrs 30 mins       ████████████████░░░░░░░░░   63.84 % 
+develop                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+teresa                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+handover                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+opencode-go-cliproxyapi  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Mac                      6 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 16 mins (97.67%)
+⏱ AI Coding Time: 8 hrs 26 mins (97.94%)
 
-✍️ 5,748 lines written by AI, 43 lines written by hand (99.26% AI-written)
+✍️ 17,438 lines written by AI, 43 lines written by hand (99.75% AI-written)
 
-🔤 6,353,455 Input Tokens, 1,220,091 Output Tokens
+🔤 8,794,455 Input Tokens, 1,466,063 Output Tokens
 
-💵 $1237.96 Estimated AI Cost This Week
+💵 $844.39 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 78 AI Prompts
+🧠 36 AI Sessions, 76 AI Prompts
 
-Deepseek                 4,388 lines         ███████████████████░░░░░░   75.88 % 
-Mimo                     716 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Opencode-Cli             639 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Spark                    40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    8,591 lines         ████████████░░░░░░░░░░░░░   48.89 % 
+Deepseek                 4,901 lines         ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Qwen                     3,363 lines         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Mimo                     716 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.26% of written lines came from AI
-📄 Detailed Prompter — average 1,332 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.84% of changed lines were hand-edited
+🤖 AI-Driven — 99.75% of written lines came from AI
+📄 Detailed Prompter — average 747 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +106,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 22:24:52 UTC
+ Last Updated on 23/09/2026 22:28:13 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
