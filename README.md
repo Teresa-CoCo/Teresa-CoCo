@@ -45,52 +45,52 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-TypeScript               1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Markdown                 1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Python                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Go                       2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.51 % 
+TypeScript               1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+SQL                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 30 mins       █████████████░░░░░░░░░░░░   52.35 % 
-Opencode Cli             3 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.13 % 
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Opencode Cli             3 hrs 58 mins       ███████████████░░░░░░░░░░   61.38 % 
+VS Code                  2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
+Zed                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🐱‍💻 Projects: 
-ViralLensNext            5 hrs 30 mins       ████████████████░░░░░░░░░   63.84 % 
-develop                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-teresa                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-handover                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-opencode-go-cliproxyapi  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+ViralLensNext            5 hrs 30 mins       █████████████████████░░░░   84.95 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+teresa                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+develop                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+jia                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Mac                      8 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 26 mins (97.94%)
+⏱ AI Coding Time: 6 hrs 18 mins (97.25%)
 
-✍️ 17,438 lines written by AI, 43 lines written by hand (99.75% AI-written)
+✍️ 12,555 lines written by AI, 43 lines written by hand (99.66% AI-written)
 
-🔤 8,794,455 Input Tokens, 1,466,063 Output Tokens
+🔤 6,983,649 Input Tokens, 1,167,642 Output Tokens
 
-💵 $844.39 Estimated AI Cost This Week
+💵 $578.84 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 76 AI Prompts
+🧠 26 AI Sessions, 40 AI Prompts
 
-Spark                    8,591 lines         ████████████░░░░░░░░░░░░░   48.89 % 
-Deepseek                 4,901 lines         ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Qwen                     3,363 lines         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Mimo                     716 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Spark                    8,591 lines         █████████████████░░░░░░░░   67.81 % 
+Qwen                     3,363 lines         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Mimo                     716 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.75% of written lines came from AI
-📄 Detailed Prompter — average 747 characters per prompt
+🤖 AI-Driven — 99.66% of written lines came from AI
+📄 Detailed Prompter — average 1,309 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +106,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 22:28:13 UTC
+ Last Updated on 24/09/2026 22:42:00 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
