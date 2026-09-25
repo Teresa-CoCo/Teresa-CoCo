@@ -45,52 +45,45 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.51 % 
-TypeScript               1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-SQL                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Markdown                 18 mins             ██████████████░░░░░░░░░░░   55.62 % 
+Other                    14 mins             ███████████░░░░░░░░░░░░░░   44.38 % 
 
 🔥 Editors: 
-Opencode Cli             3 hrs 58 mins       ███████████████░░░░░░░░░░   61.38 % 
-VS Code                  2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
-Zed                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+VS Code                  25 mins             ███████████████████░░░░░░   76.44 % 
+Zed                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
 
 🐱‍💻 Projects: 
-ViralLensNext            5 hrs 30 mins       █████████████████████░░░░   84.95 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-teresa                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-develop                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-jia                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Unknown Project          12 mins             █████████░░░░░░░░░░░░░░░░   36.90 % 
+teresa                   11 mins             ████████░░░░░░░░░░░░░░░░░   33.96 % 
+DronePicMarker           6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+tmp                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 
 💻 Operating System: 
-Mac                      6 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 18 mins (97.25%)
+⏱ AI Coding Time: 22 mins (67.94%)
 
-✍️ 12,555 lines written by AI, 43 lines written by hand (99.66% AI-written)
+✍️ 716 lines written by AI, 43 lines written by hand (94.33% AI-written)
 
-🔤 6,983,649 Input Tokens, 1,167,642 Output Tokens
+🔤 192,462 Input Tokens, 79,166 Output Tokens
 
-💵 $578.84 Estimated AI Cost This Week
+💵 $17.89 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 40 AI Prompts
+🧠 11 AI Sessions, 13 AI Prompts
 
-Spark                    8,591 lines         █████████████████░░░░░░░░   67.81 % 
-Qwen                     3,363 lines         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-Mimo                     716 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     716 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
-📄 Detailed Prompter — average 1,309 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🤖 AI-Driven — 94.33% of written lines came from AI
+📝 Concise Prompter — average 47 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 7.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +99,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 22:42:00 UTC
+ Last Updated on 25/09/2026 22:44:08 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
