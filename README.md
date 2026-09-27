@@ -45,43 +45,39 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 mins             ██████████████░░░░░░░░░░░   55.62 % 
-Other                    14 mins             ███████████░░░░░░░░░░░░░░   44.38 % 
+Markdown                 18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  25 mins             ███████████████████░░░░░░   76.44 % 
-Zed                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+VS Code                  10 mins             ██████████████░░░░░░░░░░░   57.64 % 
+Zed                      7 mins              ███████████░░░░░░░░░░░░░░   42.36 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 mins             █████████░░░░░░░░░░░░░░░░   36.90 % 
-teresa                   11 mins             ████████░░░░░░░░░░░░░░░░░   33.96 % 
-DronePicMarker           6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-tmp                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Unknown Project          12 mins             █████████████████░░░░░░░░   66.35 % 
+DronePicMarker           6 mins              ████████░░░░░░░░░░░░░░░░░   33.65 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (67.94%)
+⏱ AI Coding Time: 7 mins (42.36%)
 
 ✍️ 716 lines written by AI, 43 lines written by hand (94.33% AI-written)
 
-🔤 192,462 Input Tokens, 79,166 Output Tokens
+🔤 108,591 Input Tokens, 26,076 Output Tokens
 
-💵 $17.89 Estimated AI Cost This Week
+💵 $1.17 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 13 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 Mimo                     716 lines           █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 94.33% of written lines came from AI
-📝 Concise Prompter — average 47 characters per prompt
+📝 Concise Prompter — average 166 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 7.97% of changed lines were hand-edited
 ```
@@ -99,7 +95,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 22:09:56 UTC
+ Last Updated on 27/09/2026 22:31:18 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
