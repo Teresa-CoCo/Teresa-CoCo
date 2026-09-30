@@ -45,22 +45,45 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               15 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
+Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sanwei                   19 mins             ██████████████░░░░░░░░░░░   55.37 % 
+teresa                   9 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 34 mins (99.71%)
+
+✍️ 925 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 123,870 Input Tokens, 47,659 Output Tokens
+
+💵 $9.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Deepseek                 925 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 222 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +99,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 23:09:51 UTC
+ Last Updated on 30/09/2026 23:11:53 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
