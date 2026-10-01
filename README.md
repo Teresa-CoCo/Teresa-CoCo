@@ -1,8 +1,8 @@
 ### Hi! I'm Teresa 👋 A Junior studying in AHU School of Internet.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-281%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,44 +45,45 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               15 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
-Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Other                    19 mins             ███████████░░░░░░░░░░░░░░   42.95 % 
+JavaScript               15 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
+HTML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-Zed                      34 mins             █████████████████████████   100.00 % 
+Zed                      46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sanwei                   19 mins             ██████████████░░░░░░░░░░░   55.37 % 
-teresa                   9 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+teresa                   19 mins             ███████████░░░░░░░░░░░░░░   42.95 % 
+sanwei                   19 mins             ██████████░░░░░░░░░░░░░░░   41.30 % 
+Unknown Project          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+DronePicMarker           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+Mac                      46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (99.71%)
+⏱ AI Coding Time: 45 mins (98.69%)
 
 ✍️ 925 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 123,870 Input Tokens, 47,659 Output Tokens
+🔤 186,690 Input Tokens, 65,284 Output Tokens
 
-💵 $9.00 Estimated AI Cost This Week
+💵 $10.45 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
 Deepseek                 925 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 108 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -99,7 +100,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 23:11:53 UTC
+ Last Updated on 01/10/2026 23:24:17 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
