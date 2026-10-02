@@ -45,45 +45,45 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 mins             ███████████░░░░░░░░░░░░░░   42.95 % 
-JavaScript               15 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
-HTML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript               15 mins             ███████████░░░░░░░░░░░░░░   42.29 % 
+Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-Zed                      46 mins             █████████████████████████   100.00 % 
+Zed                      35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teresa                   19 mins             ███████████░░░░░░░░░░░░░░   42.95 % 
-sanwei                   19 mins             ██████████░░░░░░░░░░░░░░░   41.30 % 
-Unknown Project          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-DronePicMarker           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+sanwei                   19 mins             █████████████░░░░░░░░░░░░   53.55 % 
+teresa                   9 mins              ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+DronePicMarker           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (98.69%)
+⏱ AI Coding Time: 35 mins (98.3%)
 
 ✍️ 925 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 186,690 Input Tokens, 65,284 Output Tokens
+🔤 135,412 Input Tokens, 48,622 Output Tokens
 
-💵 $10.45 Estimated AI Cost This Week
+💵 $9.28 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 Deepseek                 925 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 149 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -100,7 +100,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 23:24:17 UTC
+ Last Updated on 02/10/2026 23:13:03 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
