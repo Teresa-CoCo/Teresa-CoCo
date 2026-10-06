@@ -8,13 +8,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 611.0 kB Used in GitHub's Storage 
+> 📦 611.1 kB Used in GitHub's Storage 
  > 
-> 🏆 806 Contributions in the Year 2026
+> 🏆 808 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 61 Private Repositories 
  > 
@@ -45,44 +45,44 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               15 mins             ███████████░░░░░░░░░░░░░░   42.29 % 
-Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JavaScript               15 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
+Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Zed                      35 mins             █████████████████████████   100.00 % 
+Opencode Cli             25 mins             ███████████████████░░░░░░   74.41 % 
+Zed                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 
 🐱‍💻 Projects: 
-sanwei                   19 mins             █████████████░░░░░░░░░░░░   53.55 % 
-teresa                   9 mins              ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-DronePicMarker           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+sanwei                   19 mins             ██████████████░░░░░░░░░░░   55.37 % 
+teresa                   9 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (98.3%)
+⏱ AI Coding Time: 34 mins (99.71%)
 
 ✍️ 925 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 135,412 Input Tokens, 48,622 Output Tokens
+🔤 123,870 Input Tokens, 47,659 Output Tokens
 
-💵 $9.28 Estimated AI Cost This Week
+💵 $9.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Deepseek                 925 lines           █████████████████████████   100.00 % 
+DeepSeek                 925 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 149 characters per prompt
+📝 Concise Prompter — average 222 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -90,17 +90,17 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   31 repos            ███████████░░░░░░░░░░░░░░   44.93 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   31 repos            ███████████░░░░░░░░░░░░░░   44.29 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
 
 
- Last Updated on 06/10/2026 00:57:45 UTC
+ Last Updated on 06/10/2026 23:14:10 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
