@@ -45,46 +45,22 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               15 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
-Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Opencode Cli             25 mins             ███████████████████░░░░░░   74.41 % 
-Zed                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sanwei                   19 mins             ██████████████░░░░░░░░░░░   55.37 % 
-teresa                   9 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (99.71%)
-
-✍️ 925 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 123,870 Input Tokens, 47,659 Output Tokens
-
-💵 $9.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-DeepSeek                 925 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +76,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 23:14:10 UTC
+ Last Updated on 07/10/2026 23:44:36 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
