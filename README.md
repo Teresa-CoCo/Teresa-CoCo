@@ -45,16 +45,18 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              ██████████████████████░░░   86.84 % 
+HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DronePicMarker           4 mins              ██████████████████████░░░   86.84 % 
+sanwei                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,7 +78,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:44:36 UTC
+ Last Updated on 08/10/2026 23:54:47 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
