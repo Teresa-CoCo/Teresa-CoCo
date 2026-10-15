@@ -10,7 +10,7 @@
 
 > 📦 611.1 kB Used in GitHub's Storage 
  > 
-> 🏆 808 Contributions in the Year 2026
+> 🏆 809 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -45,18 +45,16 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 mins              ██████████████████████░░░   86.84 % 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DronePicMarker           4 mins              ██████████████████████░░░   86.84 % 
-sanwei                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,17 +66,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   31 repos            ███████████░░░░░░░░░░░░░░   44.29 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   31 repos            ███████████░░░░░░░░░░░░░░   43.66 % 
+TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
 
 
- Last Updated on 14/10/2026 22:34:15 UTC
+ Last Updated on 15/10/2026 22:38:43 UTC
 <!--END_SECTION:waka-->
 
 #### Good at
